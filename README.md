@@ -1,7 +1,6 @@
 # Backend de l'application TodoList
-cette partie génere les Api
+cette partie génere les Api de notre application avec rest framework
 
-## Prérequis
-- Python 3.8+
-- pip
-- environnement virtuel (virtualenv) : recommandé
+Flux d'utilisateurs
+
+
